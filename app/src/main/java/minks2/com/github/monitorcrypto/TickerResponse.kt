@@ -13,4 +13,3 @@ package minks2.com.github.monitorcrypto
         val sell: String,
         val date: Long
     )
-}
